@@ -10,3 +10,4 @@ learn .net6 min api
 
 - make sure you are hitting a real endpoint else you'll get a `404` and think everything is broken
 - min api <https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio>
+- <https://localhost:7052/swagger/index.html> to access swagger, see in memory api
